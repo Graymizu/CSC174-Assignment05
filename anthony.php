@@ -1,11 +1,15 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-	<link rel="stylesheet" type="text/css" href="style.css">
 	<title>Anthony Russell</title>
+
+	<link rel="stylesheet" type="text/css" href="css/style.css">
+	
 </head>
+
 <body>
-	<div>
+
+	<div> <!--Contains navigation bar-->
 		<nav>
 			<div>
 				<ul>
