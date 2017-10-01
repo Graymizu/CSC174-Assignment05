@@ -4,8 +4,12 @@
 	<head>
 		<meta charset="utf-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<!-- Latest compiled and minified CSS of Bootstrap from w3c -->
+		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+		<link rel="stylesheet" type="text/css" href="css/style.css">
+		
 		<title>Team Shanghai, CSC 174 Assignment 4</title>
-		<link rel="stylesheet" type="text/css" href="css/styles.css">
+		
 	
 								
 	</head>
@@ -19,15 +23,16 @@
 			</h1>	
 				<p>CSC 174 - Advanced Front-End Web Development</p>
 						
+	 <!--Contains navigation bar-->
 			<nav>
 				<ul>
 					<li><a href="index.php">Home</a></li>
-					<li><a href="phoinguyen.php">Phoi Nguyen</a></li>
-					<li><a href="lunguyen.php">Lu Nguyen</a></li>
-					<li><a class="active" href="astruhl.php">Adam Struhl</a></li>
-
+					<li><a href="astruhl.php">Adam Struhl</a></li>
+					<li><a href="anthony.php">Anthony Russell</a></li>
+					<li><a href="lulu.php">Lulu Chen</a></li>
 				</ul>
-			</nav>					
+			</nav>
+				
 		</header>
 
 		<section>
