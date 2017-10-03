@@ -20,6 +20,9 @@
 				</p>
 	
 			<h2>TOUR</h2>
+				<figure>
+					<img src="images/school.jpg" alt="Academic Coach">
+				</figure>
 				<p>
 					I am a academic coach for the program called TOUR. It stands for Transitional Opportunties for students at University of Rochester. 
 				</p>
@@ -30,6 +33,10 @@
 					</p>
 
 			<h2>Graphic Design</h2>
+				<figure>
+					<img src="images/graphic.jpg" alt="Graphics Designer">
+				</figure>
+
 				<p>
 					I transferred to the University of Rochester in the year of 2014. However, during my time at my other college, I took a couple of Graphic Design courses and fell in love with it. We did not code much, but we played around with formatting and 3D design. 
 				</p>
