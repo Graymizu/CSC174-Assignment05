@@ -1,42 +1,25 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-	<title>Anthony Russell</title>
-
+	<title>Anthony Russell-Team Scotland Yard Assignment 5</title>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<!-- Latest compiled and minified CSS of Bootstrap from w3c -->
 	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
-
 	<link rel="stylesheet" type="text/css" href="css/style.css">
-
-	<meta name="viewport" content="width=device-width, initial-scale=1">
-	
 </head>
 
 <body>
-
-	<!--changed the nav bar to a php to improve updateability-->
+	<!--added a php include for the nav bar to improve universality-->
 	<?php include "nav.inc" ?>	
 
-	<div> <!--Contains everyting except for the navigation and title-->
+		<h1>Anthony Russell</h1>
 
-		<div> <!--Contains page title-->
+			<h2>About Me</h2>
 
-			<h1> Anthony Russell </h1>
-
-		</div> <!--End of title-->
-
-		<div> <!--Contains about me-->
-			<h2>
-				About Me
-			</h2>
-
-				<p>
-					Hi, name is Anthony and I'm a senior at the University of Rochester. I belive my time at college has been largely shaped by the clubs that I've joined and material that I've studied. I currently hold the Business Manager Eboard position for RICE Crew, and I was on the Hospitality Team for ACF during my junior year.
-				</p>	
-
-		</div> <!--End of about me-->
-
-		<div> <!--Contains firts bit of information-->
+			<p>
+				Hi, name is Anthony and I'm a senior at the University of Rochester. I belive my time at college has been largely shaped by the clubs that I've joined and material that I've studied. I currently hold the Business Manager Eboard position for RICE Crew, and I was on the Hospitality Team for ACF during my junior year.
+			</p>	
 
 			<h2>My Academics</h2>
 
@@ -51,10 +34,6 @@
 				<h3>Linguistics</h3>
 
 					<p>My cluster is in Linguistics. I fiured it would be cool to study language even more.</p>
-
-		</div> <!--End of 1st bit of information-->
-
-		<div> <!--Contains second bit of information-->
 
 			<h2>My Clubs</h2> 
 
@@ -75,7 +54,5 @@
 					<p>
 						Japanese Students' Association (JSA) provides the University of Rochester community with an opportunity to experience and learn both Japanese language and culture. Open to anyone interested in Japan, JSA offers activities and events teaching traditional arts, pop-culture, and various other points of Japanese culture.
 					</p>
-
-		</div> <!--End of 2nd info-->
-	</div> <!--End of main content-->
+</body>					
 </html>
