@@ -21,6 +21,9 @@
 				</p>	
 
 			<h2>My Academics</h2>
+				<figure>
+					<img src="images/school.jpg" alt="Academics">
+				</figure>
 
 				<h3>Computer Science</h3>
 					<p>
@@ -45,11 +48,17 @@
 					</p>
 
 				<h3>RICE Crew</h3>
+					<figure>
+						<img src="images/RICE.png" alt="RICE Crew">
+					</figure>
 					<p>
 						Rochester International Choreography Entertainment Crew, a committee of KASA, promotes the cultural aspects of Korean pop dance (Kpop) and music while integrating it with its American hip hop counterparts. We hope to promote the similarities and link between the two genres. RICE Crew performs in KASA and other campus organizations' events as an illustration of Korean pop dance and music. Anyone who is interested in learning Korean and American hip hop dances are welcomed regardless of ethnicity.
 					</p>
 
 				<h3>JSA</h3>
+					<figure>
+						<img src="images/agape.png" alt="Agape">
+					</figure>
 					<p>
 						Japanese Students' Association (JSA) provides the University of Rochester community with an opportunity to experience and learn both Japanese language and culture. Open to anyone interested in Japan, JSA offers activities and events teaching traditional arts, pop-culture, and various other points of Japanese culture.
 					</p>
