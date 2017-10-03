@@ -62,5 +62,6 @@
 					<p>
 						Japanese Students' Association (JSA) provides the University of Rochester community with an opportunity to experience and learn both Japanese language and culture. Open to anyone interested in Japan, JSA offers activities and events teaching traditional arts, pop-culture, and various other points of Japanese culture.
 					</p>
+<?php include "footer.inc" ?>	
 </body>					
 </html>
