@@ -48,8 +48,8 @@
 					</a>
 				<a href="lulu.php"> Read more... </a>
 			</article>
-
 		</section>
 	
-	</body>
+<?php include "footer.inc" ?>	
+</body>
 </html>
