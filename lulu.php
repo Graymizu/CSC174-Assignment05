@@ -21,11 +21,14 @@
 	
 			<h2>TOUR</h2>
 				<figure>
-					<img src="images/school.jpg" alt="Academic Coach">
+					<img src="images/school.jpg" alt="Academics">
 				</figure>
 				<p>
 					I am a academic coach for the program called TOUR. It stands for Transitional Opportunties for students at University of Rochester. 
 				</p>
+				<figure>
+					<img src="images/coach.jpg" alt="Academic Coach">
+				</figure>
 				
 				<h3>My Role</h3>
 					<p>
