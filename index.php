@@ -93,8 +93,9 @@
 				</div>
 			
 		</div>	
-	
-<?php include "footer.inc" ?>	
+	<footer>
+		Fall 2017 CSC 174, Project 05, Scotland Yard. We are using bootstrap for this project.
+	</footer>
 </body>
 </html>
 
