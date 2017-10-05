@@ -9,6 +9,7 @@
     <!-- Override CSS -->
 	<link rel="stylesheet" type="text/css" href="css/override.css">
 	<link rel="stylesheet" type="text/css" href="css/nav.css">
+	<link rel="stylesheet" type="text/css" href="css/footer.css">
 
 </head>
 
@@ -26,13 +27,14 @@
 		</header>
 
 		<div class="container-fluid">
-			<section>
+			
 				<div class="row">
 
 					<div class="col-4">
-						<div class="in-col">
-							<h2>Adam Struhl - Information Architect</h2>
-							<div class="row justify-content-center">
+						<div class="fix-strange">
+							<div class="in-col">
+								<h2>Adam Struhl - Information Architect</h2>
+								<div class="row justify-content-center">
 								
 									<a href="astruhl.php">
 										<figure>
@@ -40,14 +42,16 @@
 										</figure>
 									</a>
 								
-							</div>
-							<div class="link-space">
-								<a href="astruhl.php"> Read more...</a>
+								</div>
+								<div class="link-space">
+									<a href="astruhl.php"> Read more...</a>
+								</div>
 							</div>
 						</div>
 					</div>
 
 					<div class="col-4">
+						<div class="fix-strange">
 						<div class="in-col">
 							<h2>Anthony Russell - Design Artist</h2>
 							<div class="row justify-content-center">
@@ -59,13 +63,15 @@
 									</a>
 								
 							</div>
-							<div class="link-space">
-								<a href="anthony.php">Read more...</a>
+								<div class="link-space">
+									<a href="anthony.php">Read more...</a>
+								</div>
 							</div>
 						</div>
 					</div>
 
 					<div class="col-4">
+						<div class="fix-strange">
 						<div class="in-col">
 							<h2>Yingju Chen - Code Monkey</h2>
 							<div class="row justify-content-center">
@@ -77,8 +83,9 @@
 									</a>
 								
 							</div>
-							<div class="link-space">
-								<a href="lulu.php"> Read more... </a>
+								<div class="link-space">
+									<a href="lulu.php"> Read more... </a>
+								</div>
 							</div>
 						</div>
 					</div>
@@ -103,7 +110,7 @@
 					</div>
 -->
 				</div>
-			</section>
+			
 		</div>	
 	
 <?php include "footer.inc" ?>	

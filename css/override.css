@@ -7,9 +7,8 @@
 	border-image-width: 90%;
 }
 
-.col-4{
-	
-	
+.fix-strange {
+	max-height: 80%;
 }
 
 .link-space {
