@@ -19,7 +19,7 @@
 
 img {
     border-radius: 10%;
-   	max-width: 100%;
+   	max-width: 90%;
     height: auto;
     margin: auto;
     background-color: rgb(252, 153, 139);
@@ -49,6 +49,14 @@ body {
 article {
 	background-color: rgb(252, 153, 139);
 }
+.col-4{
+	text-align: center;
+}
 
+@media screen and (max-width: 400px){
+	image{
+		max-width: 30%;
+	}
+}
 
 
