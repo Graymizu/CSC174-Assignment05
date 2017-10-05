@@ -4,9 +4,12 @@
 	<title>Anthony Russell-Team Scotland Yard Assignment 5</title>
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<!-- Latest compiled and minified CSS of Bootstrap from w3c -->
-	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
-	<link rel="stylesheet" type="text/css" href="css/style.css">
+	<!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta/css/bootstrap.min.css" integrity="sha384-/Y6pD6FV/Vv2HJnA6t+vslU6fwYXjCFtcEpHbNJ0lyAFsXTsjBbfaDjzALeQsN6M" crossorigin="anonymous">
+    <!-- Override CSS -->
+	<link rel="stylesheet" type="text/css" href="css/override.css">
+	<link rel="stylesheet" type="text/css" href="css/nav.css">
+	
 </head>
 
 <body>
@@ -27,7 +30,7 @@
 
 				<h3>Computer Science</h3>
 					<p>
-						My first major is CS. I knew that I was going to pursue this since coming to Rochester. I doing a BA with a focus on Human Computer Interaction.
+						My first major is CS. I knew that I was going to pursue this since coming to Rochester. I am doing a in BA in computer science with a focus on Human Computer Interaction.
 					</p>
 
 				<h3>Japanese</h3>
