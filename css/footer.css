@@ -1,7 +1,10 @@
 .footer 
 {
   text-align: center; 
+  bottom:0; 
+  position: absolute; 
 }
   
   
 // reference to codepen.io 
+//reference to http://matthewjamestaylor.com/blog/keeping-footers-at-the-bottom-of-the-page
