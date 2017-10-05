@@ -28,61 +28,80 @@
 		<div class="container-fluid">
 			<section>
 				<div class="row">
+
 					<div class="col-4">
 						<div class="in-col">
 							<h2>Adam Struhl - Information Architect</h2>
+							<div class="row justify-content-center">
+								
+									<a href="astruhl.php">
+										<figure>
+											<img src="images/architect.jpg" alt="Adam Struhl">
+										</figure>
+									</a>
+								
+							</div>
+							<div class="link-space">
+								<a href="astruhl.php"> Read more...</a>
+							</div>
 						</div>
 					</div>
+
 					<div class="col-4">
 						<div class="in-col">
 							<h2>Anthony Russell - Design Artist</h2>
+							<div class="row justify-content-center">
+								
+									<a href="anthony.php">
+										<figure>
+											<img src="images/design.png" alt="Anthony Russell">
+										</figure>
+									</a>
+								
+							</div>
+							<div class="link-space">
+								<a href="anthony.php">Read more...</a>
+							</div>
 						</div>
 					</div>
+
 					<div class="col-4">
 						<div class="in-col">
 							<h2>Yingju Chen - Code Monkey</h2>
+							<div class="row justify-content-center">
+								
+									<a href="lulu.php">
+										<figure>
+											<img src="images/monkey.jpg" alt="Yinju Chen">
+										</figure>
+									</a>
+								
+							</div>
+							<div class="link-space">
+								<a href="lulu.php"> Read more... </a>
+							</div>
+						</div>
 					</div>
-				</div>
+<!--
 				<div class="row">
 					<div class="col-4">
 						<div class="in-col">
-							<article>
-								<a href="astruhl.php">
-									<figure>
-									<img src="images/architect.jpg" alt="Adam Struhl">
-									</figure>
-								</a>
-								<a href="astruhl.php"> Read more...</a>
-							</article>
+							
 						</div>	
 					</div>
 
 					<div class="col-4">
 						<div class="in-col">
-							<article>
-									<a href="anthony.php">
-									<figure>
-									<img src="images/design.png" alt="Anthony Russell">
-									</figure>
-									</a>
-								<a href="anthony.php">Read more...</a>
-							</article>
+							
 						</div>	
 					</div>
 
 					<div class="col-4">
 						<div class="in-col">
-							<article>
-									<a href="lulu.php">
-									<figure>
-									<img src="images/monkey.jpg" alt="Yinju Chen">
-									</figure>
-									</a>
-								<a href="lulu.php"> Read more... </a>
-							</article>
+							
 						</div>	
 					</div>
-
+-->
 				</div>
 			</section>
 		</div>	
