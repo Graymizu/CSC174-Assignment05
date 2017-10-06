@@ -46,6 +46,8 @@
 				<p>
 					I transferred to the University of Rochester in the year of 2014. However, during my time at my other college, I took a couple of Graphic Design courses and fell in love with it. We did not code much, but we played around with formatting and 3D design. 
 				</p>
-<?php include "footer.inc" ?>	
+	<footer>
+		Fall 2017 CSC 174, Project 05, Scotland Yard. We are using bootstrap for this project.
+	</footer>	
 </body>
 </html>
