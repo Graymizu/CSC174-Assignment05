@@ -48,6 +48,8 @@
 				I am a long-standing member of the Anime Interest Floor.  I spent my sophmore year working as their PR manager before becoming the President of the organization in my Junior year.  I am currently serving a second term as president, and am working towards improving the group by increasing the number of cool and unique events that we do.
 			</p>
 	
-<?php include "footer.inc" ?>	
+	<footer>
+		Fall 2017 CSC 174, Project 05, Scotland Yard. We are using bootstrap for this project.
+	</footer>	
 </body>
 </html>
