@@ -53,9 +53,9 @@ article {
 	text-align: center;
 }
 
-@media screen and (max-width: 400px){
-	image{
-		max-width: 30%;
+@media screen and (min-width: 400px){
+	img{
+		max-width: 80%;
 	}
 }
 
