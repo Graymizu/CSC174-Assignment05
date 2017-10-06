@@ -9,7 +9,6 @@
     <!-- Override CSS -->
 	<link rel="stylesheet" type="text/css" href="css/override.css">
 	<link rel="stylesheet" type="text/css" href="css/nav.css">
-	<link rel="stylesheet" type="text/css" href="css/footer.css">
 
 </head>
 
